@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: BalajiSoundaraj/cms-learnship-dev.git
+  repo: BalajiSoundaraj/cms-learnship-dev
   
 media_folder: static/assets
 public_folder: assets
